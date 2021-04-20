@@ -1,0 +1,38 @@
+{
+  "Demo": {
+    "description": "Auto imported from components/demo/Demo.vue"
+  },
+  "LazyDemo": {
+    "description": "Auto imported from components/demo/Demo.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/footer/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/footer/Footer.vue"
+  },
+  "Gallery": {
+    "description": "Auto imported from components/gallery/Gallery.vue"
+  },
+  "LazyGallery": {
+    "description": "Auto imported from components/gallery/Gallery.vue"
+  },
+  "Key": {
+    "description": "Auto imported from components/get-key/Key.vue"
+  },
+  "LazyKey": {
+    "description": "Auto imported from components/get-key/Key.vue"
+  },
+  "Intro": {
+    "description": "Auto imported from components/intro/Intro.vue"
+  },
+  "LazyIntro": {
+    "description": "Auto imported from components/intro/Intro.vue"
+  },
+  "Nav": {
+    "description": "Auto imported from components/navbar/Nav.vue"
+  },
+  "LazyNav": {
+    "description": "Auto imported from components/navbar/Nav.vue"
+  }
+}

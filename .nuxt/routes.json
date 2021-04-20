@@ -1,0 +1,30 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/harsh/Documents/GitHub/yourshot-website/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_f713d23a"
+  },
+  {
+    "name": "demo",
+    "path": "/demo",
+    "component": "/home/harsh/Documents/GitHub/yourshot-website/pages/demo.vue",
+    "chunkName": "pages/demo",
+    "_name": "_10715006"
+  },
+  {
+    "name": "key",
+    "path": "/key",
+    "component": "/home/harsh/Documents/GitHub/yourshot-website/pages/key.vue",
+    "chunkName": "pages/key",
+    "_name": "_0f7b9035"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/harsh/Documents/GitHub/yourshot-website/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b7a41cb0"
+  }
+]
